@@ -13,8 +13,7 @@ Discussion Facilitator: TBD
 
 1540 - 1610   Discussion of network operator concerns (of all types) - could be a panel discussion w/draft authors
               - Centralisation
-              - Fragilty
-              - Surveillance capitalism
+              - Fragility
               - Loss of filtering control
               - Etc.
               
@@ -23,6 +22,8 @@ Discussion Facilitator: TBD
               - What other groups should be consulted / involved outside IETF? (e.g. ICANN if TLDs should support DoT)
               - Etc.
               
-1630 - 1650   Other issues?
+1630 - 1650   Other issues? - could include someone involved in the IETF human rights work
+              - Is this a bigger issue than just DNS stuff?
+              - If so, is there a need for a BoF/effort to consider the implications & tradeoffs between BCP 188 and https://tools.ietf.org/html/draft-arkko-iab-internet-consolidation-00, or just between BCP 188 and how many networks operate today?
 
 1650 - 1700   Next steps
