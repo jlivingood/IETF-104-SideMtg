@@ -1,1 +1,28 @@
-# IETF-104-SideMtg
+Date and location registered at https://trac.ietf.org/trac/ietf/meeting/wiki/104sidemeetings
+
+Date: Wednesday, 27 March, 1500 to 170
+Location: Karlin 1/2
+
+Discussion Facilitator: TBD
+
+1500 - 1510   Welcome & overview of the goals of this meeting
+
+1510 - 1540   What are the goals of DoH and DoT?  - could be a panel discussion with key DoT/H proponents / authors
+              - Enumerate & discuss
+              - Are there tradeoffs?
+
+1540 - 1610   Discussion of network operator concerns (of all types) - could be a panel discussion w/draft authors
+              - Centralisation
+              - Fragilty
+              - Surveillance capitalism
+              - Loss of filtering control
+              - Etc.
+              
+1600 - 1630   What are the best venues to continue discussion?
+              - What WG should have what drafts?
+              - What other groups should be consulted / involved outside IETF? (e.g. ICANN if TLDs should support DoT)
+              - Etc.
+              
+1630 - 1650   Other issues?
+
+1650 - 1700   Next steps
