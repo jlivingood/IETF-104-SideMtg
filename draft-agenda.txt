@@ -15,6 +15,8 @@ Discussion Facilitator: TBD
               - Centralisation
               - Fragility
               - Loss of filtering control
+              - Discuss how to best get informed / meaningful user consent
+              - Discuss any regulatory / legal issues that affect technology decisions – such as GDPR compliance
               - Etc.
               
 1610 - 1630   Other issues? - could include someone involved in the IETF human rights work
@@ -24,6 +26,8 @@ Discussion Facilitator: TBD
               
 1630 - 1650   What are the best venues to continue discussion?
               - What WG should have what drafts?
+              - Direction from ADs: where should DoH privacy stuff get done? Both the dprive and doh WGs are chartered 
+              to work on DNS privacy. But Warren prefers it go to dnsop. Nobody seems to know for sure.
               - What other groups should be consulted / involved outside IETF? (e.g. ICANN if TLDs should support DoT)
               - Etc.
               
