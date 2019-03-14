@@ -17,13 +17,15 @@ Discussion Facilitator: TBD
               - Loss of filtering control
               - Etc.
               
-1600 - 1630   What are the best venues to continue discussion?
+1610 - 1630   Other issues? - could include someone involved in the IETF human rights work
+              - Is this a bigger issue than just DNS stuff?
+              - If so, is there a need for a BoF/effort to consider the implications & tradeoffs between BCP 188 and https://tools.ietf.org/html/draft-arkko-iab-internet-consolidation-00, or just between BCP 188 and how many networks operate today?
+
+              
+1630 - 1650   What are the best venues to continue discussion?
               - What WG should have what drafts?
               - What other groups should be consulted / involved outside IETF? (e.g. ICANN if TLDs should support DoT)
               - Etc.
               
-1630 - 1650   Other issues? - could include someone involved in the IETF human rights work
-              - Is this a bigger issue than just DNS stuff?
-              - If so, is there a need for a BoF/effort to consider the implications & tradeoffs between BCP 188 and https://tools.ietf.org/html/draft-arkko-iab-internet-consolidation-00, or just between BCP 188 and how many networks operate today?
 
 1650 - 1700   Next steps
